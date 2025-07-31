@@ -43,7 +43,7 @@
           href="mailto:romangbehoun@gmail.com"
           class="flex flex-col items-center bg-[rgba(240,240,242,1)] shadow-lg rounded-2xl p-6 hover:bg-gray-700 transition duration-300"
         >
-          <img src="../assets/icones/email.png" alt="Email Icon" class="w-16 h-16 mt-2 mb-4" />
+          <img src="@/assets/icones/email.png" alt="Email Icon" class="w-16 h-16 mt-2 mb-4" />
           <h3 class="text-lg text-black">Email</h3>
         </a>
 
@@ -51,7 +51,7 @@
           @click="toggleChat"
           class="flex flex-col items-center bg-[rgba(240,240,242,1)] shadow-lg rounded-2xl p-6 hover:bg-gray-700 transition duration-300"
         >
-          <img src="../assets/icones/group.png" alt="Live Chat Icon" class="w-16 h-16 mt-2 mb-4" />
+          <img src="@/assets/icones/group.png" alt="Live Chat Icon" class="w-16 h-16 mt-2 mb-4" />
           <h3 class="text-lg text-black">Live Chat</h3>
         </button>
 
@@ -59,7 +59,7 @@
           href="#"
           class="flex flex-col items-center bg-[rgba(240,240,242,1)] shadow-lg rounded-2xl p-6 hover:bg-gray-700 transition duration-300"
         >
-          <img src="../assets/icones/cel.png" alt="Call Icon" class="w-16 h-16 mt-2 mb-4" />
+          <img src="@/assets/icones/cel.png" alt="Call Icon" class="w-16 h-16 mt-2 mb-4" />
           <h3 class="text-lg text-black">Appelez-nous</h3>
         </a>
       </div>
